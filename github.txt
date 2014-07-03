@@ -1,4 +1,4 @@
-FTP
+﻿FTP->No es un sistema de Control de Versiones
 Transmisión de archivos
 Hosting barato normal --> /public_html/ <-- FTP
 	index.php
